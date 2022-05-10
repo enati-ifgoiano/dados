@@ -1,0 +1,163 @@
+[{
+	"dia": 1,
+	"horaInicio": "13:00",
+	"horaFim": "17:00",
+	"titulo": "Mostra de Robótica",
+	"local": "Auditório Menor",
+	"palestrante": "",
+	"tipo": "Geral",
+	"descricao": "Esta atividade visa apresentar os trabalhos do lab maker e projetos envolvendo robótica da cidade de Iporá. A atividade contará com monitores do lab-maker e estudantes do colégio CEPI Osório. Tem interesse em robótica? Esse espaço é ideal para você."
+}, {
+	"dia": 1,
+	"horaInicio": "13:00",
+	"horaFim": "17:00",
+	"titulo": "Introdução ao Latex",
+	"local": "Laboratório de Informática I",
+	"palestrante": "Suélio Marques da Silva Filho",
+	"tipo": "Minicurso",
+	"descricao": "O LaTeX é um sistema de edição de texto largamente utilizado em meios acadêmicos e científicos, bem como por algumas editoras nacionais e internacionais. O TEX foi criado no final dos anos 70, por Donald Knuth na Universidade de Stanford, com o objetivo de gerar textos com excelente representação gráfica. O LaTeX foi criado por Leslie Lamport, em meados da década de 80, e é um conjunto de comandos adicionais (macros) para o TEX. O LaTeX é uma linguagem de mais fácil uso que o TEX, e permite a elaboração de textos com alta qualidade tipográfica. Um documento em LaTeX é formado pelo texto propriamente dito e mais alguns comandos. Esses comandos definem tipo de letra, formatação do texto, símbolos especiais, etc. Para a criação de um texto em LaTeX é necessário apenas um editor de textos, como por exemplo o WinEdt, Kile, Edit do MS-DOS, Emacs, Norton Editor, TeXstudio, entre outros. Este Minicurso oferece uma visão básica desta ferramenta de produção e edição de texto onde será utilizado o TeXstudio, que é um editor de texto livre, afim de elaborar um documento com os comandos básicos do LaTeX."
+}, {
+	"dia": 1,
+	"horaInicio": "13:00",
+	"horaFim": "17:00",
+	"titulo": "Instalação de Sistemas Operacionais",
+	"local": "Laboratório de Informática II",
+	"palestrante": "Fábio Naves e Lauro",
+	"tipo": "Minicurso",
+	"descricao": ""
+}, {
+	"dia": 1,
+	"horaInicio": "13:00",
+	"horaFim": "17:00",
+	"titulo": " Entendendo como o Git e Github funcionam",
+	"local": "Laboratório de Informática III",
+	"palestrante": "João Pedro Barros",
+	"tipo": "Minicurso",
+	"descricao": "Neste minicurso aplicaremos na prática o uso de um dos maiores sistemas de controle de versionamento de arquivos. Serão apresentados os comandos básicos e como podemos executá-los para que a nossa vida se torne mais fácil quando precisamos aplicar algum tipo de versionamento em arquivos. Também trabalharemos com uma das maiores plataformas de hospedagem de arquivos com controle de versão usando o Git, o GitHub."
+}, {
+	"dia": 1,
+	"horaInicio": "19:00",
+	"horaFim": "22:00",
+	"titulo": "Palestra de Abertura: Cidades Inteligentes",
+	"local": "Auditório Menor",
+	"palestrante": "Cleomar Rocha",
+	"tipo": "Palestra",
+	"descricao": "A atividade contará com uma abertura com apresentação cultural, em seguida a composição da mesa diretiva responsável pelo evento. Por fim, a atividade contará com uma palestra com o professor e pesquisador Cleomar de Sousa Rocha."
+}, {
+	"dia": 2,
+	"horaInicio": "13:00",
+	"horaFim": "14:30",
+	"titulo": "Mundo dos Games",
+	"local": "Auditório Menor",
+	"palestrante": "Vinicius Pereira",
+	"tipo": "Palestra",
+	"descricao": "Este minicurso apresentará brevemente os conceitos fundamentais relacionados à computação afetiva, uma área que engloba a ciência da computação, psicologia e ciência cognitiva. A Computação Afetiva é uma área da computação que utiliza as emoções humanas na produção de hardwares e softwares, proporcionando ao computador a capacidade de detectar as emoções humanas. Basicamente, este conjunto de tecnologias procura compreender o estado emocional dos usuários e, desta forma, oferecer serviços e/ou funcionalidades personalizadas. Na vida cotidiana, a compreensão das emoções permite uma gama de soluções personalizadas. Portanto, para este minicurso vamos desenvolver uma solução capaz de detectar a emoção do usuário através de expressões faciais e depois sugerir ao usuário a música que melhor se adapta ao seu estado emocional atual."
+}, {
+	"dia": 2,
+	"horaInicio": "15:00",
+	"horaFim": "16:30",
+	"titulo": "Palestra",
+	"local": "Auditório",
+	"palestrante": "",
+	"tipo": "Palestra",
+	"descricao": ""
+}, {
+	"dia": 2,
+	"horaInicio": "19:00",
+	"horaFim": "22:30",
+	"titulo": "Introdução a Node.JS",
+	"local": "Laboratório de Informática I",
+	"palestrante": "Manoel",
+	"tipo": "Minicurso",
+	"descricao": "O que é Node JS e como ele é usado dentro de grandes empresas com exemplos práticos!"
+}, {
+	"dia": 2,
+	"horaInicio": "19:00",
+	"horaFim": "22:30",
+	"titulo": "Como melhorar seu negócio utilizando redes sociais",
+	"local": "Laboratório de Informática II",
+	"palestrante": "Juliana e Eliaquim",
+	"tipo": "Minicurso",
+	"descricao": ""
+}, {
+	"dia": 2,
+	"horaInicio": "19:00",
+	"horaFim": "22:30",
+	"titulo": "Computação Afetiva",
+	"local": "Laboratório de Informática III",
+	"palestrante": "Willian Garcias",
+	"tipo": "Minicurso",
+	"descricao": "Este minicurso apresentará brevemente os conceitos fundamentais relacionados à computação afetiva, uma área que engloba a ciência da computação, psicologia e ciência cognitiva. A Computação Afetiva é uma área da computação que utiliza as emoções humanas na produção de hardwares e softwares, proporcionando ao computador a capacidade de detectar as emoções humanas. Basicamente, este conjunto de tecnologias procura compreender o estado emocional dos usuários e, desta forma, oferecer serviços e/ou funcionalidades personalizadas. Na vida cotidiana, a compreensão das emoções permite uma gama de soluções personalizadas. Portanto, para este minicurso vamos desenvolver uma solução capaz de detectar a emoção do usuário através de expressões faciais e depois sugerir ao usuário a música que melhor se adapta ao seu estado emocional atual."
+}, {
+	"dia": 2,
+	"horaInicio": "19:00",
+	"horaFim": "22:30",
+	"titulo": "Hospedagem de sites utilizando AWS S3",
+	"local": "Laboratório de Informática V",
+	"palestrante": "Rafael Silvério",
+	"tipo": "Minicurso",
+	"descricao": "Este minicurso possui o intuito de apresentar brevemente as tecnologias oferecidas pela AWS focando na hospedagem de sites utilizando o serviço AWS S3. Juntos vamos finalizar a implementação de um site simples já pré implementado e após isso vamos hospedar este site aproveitando ao máximo os recursos oferecidos pelo AWS S3."
+}, {
+	"dia": 3,
+	"horaInicio": "13:00",
+	"horaFim": "17:00",
+	"titulo": "Programação Funcional em Haskell",
+	"local": "Laboratório de Informática I",
+	"palestrante": "Fabricio",
+	"tipo": "Minicurso",
+	"descricao": "O minicurso visa introduzir os princípios básicos do paradigma de programação funcional utilizando a linguagem Haskell como ferramenta. Começaremos com um pouco de história da linguagem, e do paradigma, para enfim entendermos sua importância como ferramenta no cinto de utilidades de todo programador moderno. Os conceitos básicos apresentados serão: listas, funções anônimas, funções de alta ordem, polimorfismo paramétrico, tipos de dados algebraicos, tipos de classes (type classes) e finalizaremos apresentando monadas como modo de codificar computação com efeito, como, por exemplo, entrada e saída de dados em linguagens puras. Não é necessário conhecimento prévio, mas espera-se que tenham tido contado com outras linguagens de imperativas."
+}, {
+	"dia": 3,
+	"horaInicio": "13:00",
+	"horaFim": "17:00",
+	"titulo": "Maratona de Programação",
+	"local": "Laboratório de Informática II",
+	"palestrante": "",
+	"tipo": "Minicurso",
+	"descricao": ""
+}, {
+	"dia": 3,
+	"horaInicio": "13:00",
+	"horaFim": "17:00",
+	"titulo": "Maratona de Programação",
+	"local": "Laboratório de Informática III",
+	"palestrante": "",
+	"tipo": "Minicurso",
+	"descricao": ""
+}, {
+	"dia": 3,
+	"horaInicio": "13:00",
+	"horaFim": "17:00",
+	"titulo": "Serverless: uma introdução",
+	"local": "Laboratório de Informática IV",
+	"palestrante": "Wagner",
+	"tipo": "Minicurso",
+	"descricao": ""
+}, {
+	"dia": 3,
+	"horaInicio": "13:00",
+	"horaFim": "17:00",
+	"titulo": "Clean Code e Linkedin: melhorando seu código e sua aparência profissional",
+	"local": "Laboratório de Informática V",
+	"palestrante": "Guilhermy",
+	"tipo": "Minicurso",
+	"descricao": ""
+}, {
+	"dia": 3,
+	"horaInicio": "17:00",
+	"horaFim": "19:00",
+	"titulo": "Bate-papo com egressos sobre mercado de trabalho",
+	"local": "Auditório",
+	"palestrante": "",
+	"tipo": "",
+	"descricao": ""
+}, {
+	"dia": 3,
+	"horaInicio": "19:30",
+	"horaFim": "20:00",
+	"titulo": "Premiação da Maratona de Programação, sorteio de brindes e encerramento",
+	"local": "Auditório",
+	"palestrante": "",
+	"tipo": "",
+	"descricao": "aaaaa"
+}]
